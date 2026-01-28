@@ -180,8 +180,8 @@ function speech(lang) {
     if (!('speechSynthesis' in window)) return;
     const u = new SpeechSynthesisUtterance(document.getElementById("flashTitle").textContent);
     u.lang = lang;
-    u.pitch = 2;
-    u.rate = lang.startsWith('vi') ? 0.8 : 0.75;
+    // u.pitch = 2;
+    u.rate = lang.startsWith('vi') ? 0.85 : 0.8;
     speechSynthesis.cancel();
     speechSynthesis.speak(u);
 }
@@ -195,4 +195,5 @@ const goBack = () => {
 
     document.getElementById("flashcardScreen").classList.add("hidden");
     document.getElementById("groupScreen").classList.remove("hidden");
+
 }
