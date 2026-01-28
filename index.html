@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Animal Flashcards</title>
+  <!-- <style>
+    #flashcard {
+      transition: transform 0.3s ease, opacity 0.3s ease;
+    }
+  </style> -->
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script src="script.js"></script>
+</head>
+
+<body class=" bg-gray-100">
+
+  <!-- ===== GROUP SCREEN ===== -->
+  <div id="groupScreen" class="w-screen h-screen grid grid-cols-2 gap-[5vw] p-[5vw] bg-gray-100 place-items-center"></div>
+  
+  <!-- ===== FLASHCARD SCREEN ===== -->
+  <div id="flashcardScreen" class="hidden w-screen h-screen flex flex-col relative bg-gray-100">
+
+    <!-- Flashcard -->
+    <div id="flashcard" class="flex-1 flex flex-col items-center justify-center text-center
+              transition-all duration-300 ease-out relative mb-[5vh] p-4 md:p-6 lg:p-8 xl:p-10 2xl:p-12">
+      <div id="flip-card-inner"
+        class="relative size-full rounded-xl shadow-2xl transition-transform duration-500 [transform-style:preserve-3d]">
+        <!-- Front Image -->
+        <div class="absolute size-full [backface-visibility:hidden]">
+          <img id="loading" src="/img/loading.gif" class="size-full object-contain rounded-xl xl:rounded-2xl 2xl:rounded-3xl inset-0 m-auto hidden" />
+          <img id="flashImg" class="size-full object-cover rounded-xl xl:rounded-2xl 2xl:rounded-3xl inset-0 m-auto" />
+          <!-- object-contain md:object-cover -->
+        </div>
+
+        <!-- Back Video -->
+        <div class="absolute size-full [backface-visibility:hidden] [transform:rotateY(180deg)] aspect-[9/16]">
+          <iframe id="flashVideo" class="size-full rounded-xl xl:rounded-2xl 2xl:rounded-3xl inset-0 m-auto"
+            src="https://www.youtube.com/embed/VIDEO_ID"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen>
+          </iframe>
+        </div>
+      </div>
+      <div class="w-full mt-4 text-sky-900 space-x-5">
+        <span id="flashTitle" class="font-bold text-5xl md:text-6xl lg:text-7xl xl:text-8xl 2xl:text-9xl"></span>
+        <span id="ipa" class="font-bold text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl"></span>
+      </div>
+    </div>
+
+    <!-- Progress -->
+    <div class="fixed bottom-0 left-0 w-full mt-4">
+      <div class="h-1 lg:h-1.5 2xl:h-2 bg-emerald-100">
+        <div id="progressBar" class="h-full bg-teal-800 transition-all"></div>
+      </div>
+      <div class="flex w-full h-[5vh] z-50">
+        <div class="w-1/5 bg-green-400">
+          <button onclick="goBack()" class="size-full py-2">
+            <img src="/icons/house-chimney.svg" class="size-full object-contain rounded-t-xl">
+          </button>
+        </div>
+        <div class="w-1/5 bg-red-400">
+          <button onclick="clickSpeechVi()" class="size-full py-2">
+            <img src="/icons/square-v.svg" class="size-full object-contain rounded-t-xl">
+          </button>
+        </div>
+        <div class="w-1/5 bg-stone-500">
+          <button onclick="clickFlipCard()" class="size-full py-2">
+            <img src="/icons/photo-video.svg" class="size-full object-contain rounded-t-xl">
+          </button>
+        </div>
+        <div class="w-1/5 bg-blue-400">
+          <button onclick="clickSpeechEn()" class="size-full py-2">
+            <img src="/icons/square-e.svg" class="size-full object-contain rounded-t-xl">
+          </button>
+        </div>
+        <div class="w-1/5 bg-yellow-400">
+          <button onclick="clickSwipeRight()" class="size-full py-2">
+            <img src="/icons/right.svg" class="size-full object-contain rounded-t-xl">
+          </button>
+        </div>
+      </div>
+    </div>
+
+</body>
+
+</html>
