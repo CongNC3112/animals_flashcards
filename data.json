@@ -7,10 +7,10 @@
       "flashcards": [
         {
           "titleVi": "Bò",
-          "titleEn": "Ox",
-          "ipa": "/ɑːks/",
+          "titleEn": "Cow",
+          "ipa": "/kaʊ/",
           "image": "https://demoda.vn/wp-content/uploads/2022/06/hinh-anh-con-bo-vang.jpg",
-          "video": "I9SWvWvQs1o"
+          "video": "GQSw01jICNo"
         },
         {
           "titleVi": "Cừu",
@@ -302,4 +302,5 @@
       ]
     }
   ]
+
 }
