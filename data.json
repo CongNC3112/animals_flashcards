@@ -300,7 +300,76 @@
           "video": "d-nf1oe_a8Q"
         }
       ]
+    },
+    {
+      "id": "night",
+      "name": "Ban Đêm",
+      "image": "https://drive.google.com/thumbnail?id=1N6xJY2IEruokazAbW14CRKRDcZaJfYV2",
+      "flashcards": [        
+        {
+          "titleVi": "Chồn",
+          "titleEn": "Civet",
+          "ipa": "/ˈsɪvɪt/",
+          "image": "https://media.urbanistnetwork.com/saigoneer/article-images/2022/02/28/ns-civet/14b.jpg",
+          "video": "p75X6686EfE"
+        },
+        {
+          "titleVi": "Chuột",
+          "titleEn": "Mouse",
+          "ipa": "/maʊs/",
+          "image": "https://www.heartspm.com/wp-content/uploads/2024/10/Deer-Mice-Extermination-1.jpg",
+          "video": "3FL2jNwpVFE"
+        },
+        {
+          "titleVi": "Cú mèo",
+          "titleEn": "Owl",
+          "ipa": "/aʊl/",
+          "image": "https://www.nzbirdsonline.org.nz/assets/95597/1691039081-owl-20barn-20owl-20warr-20copy.jpg?auto=format&fit=crop&w=1200",
+          "video": "OY-kPOcsewU"
+        },
+        {
+          "titleVi": "Dế",
+          "titleEn": "Cricket ",
+          "ipa": "/ˈkrɪkɪt/",
+          "image": "https://www.heartspm.com/wp-content/uploads/2024/10/House-Crickets-Extermination-1-1.jpg",
+          "video": "yKtpA2QNoVI"
+        },
+        {
+          "titleVi": "Dơi",
+          "titleEn": "Bat",
+          "ipa": "/bæt/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vampyressa_nymphae.jpg/960px-Vampyressa_nymphae.jpg",
+          "video": "hXllnTlNugI"
+        },
+        {
+          "titleVi": "Gián",
+          "titleEn": "Cockroach",
+          "ipa": "/ˈkɒk.rəʊtʃ/",
+          "image": "https://objects.liquidweb.services/images/202408/inat_66d224ed934894.62733447.jpg",
+          "video": "hm-uK72HsrY"
+        },
+        {
+          "titleVi": "Muỗi",
+          "titleEn": "Mosquito",
+          "ipa": "/məˈskiːtəʊ/",
+          "image": "https://npr.brightspotcdn.com/dims4/default/dcec8b5/2147483647/strip/true/crop/960x1280+0+0/resize/880x1173!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2F40%2F2460aa72444089ef5c2bbec0b035%2Fkemp-mosquito.jpeg",
+          "video": "7Oy6BtMaiSc"
+        },        
+        {
+          "titleVi": "Sói",
+          "titleEn": "Wolf",
+          "ipa": "/wʊlf/",
+          "image": "https://images.stockcake.com/public/d/e/0/de08642b-315f-480a-bb06-666c5cd0bc5b/wolf-howling-night-stockcake.jpg",
+          "video": "nxtCpjD_ZzE"
+        },      
+        {
+          "titleVi": "Rắn",
+          "titleEn": "Snake",
+          "ipa": "/sneɪk/",
+          "image": "https://vietnamsnakes.com/storage/snakes/species/46/1748341202_0.jpg",
+          "video": "TLh774sdzQE"
+        }
+      ]
     }
   ]
-
 }
