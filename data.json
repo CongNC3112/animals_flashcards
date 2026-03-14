@@ -370,6 +370,76 @@
           "video": "TLh774sdzQE"
         }
       ]
+    },
+    {
+      "id": "savanna",
+      "name": "Đồng Cỏ",
+      "image": "https://drive.google.com/thumbnail?id=1ICIu0oScsMaEeRpMqb-JadFXrtWzkVRz",
+      "flashcards": [
+        {
+          "titleVi": "Cầy đất",
+          "titleEn": "Meerkat",
+          "ipa": "/ˈmɪə.kæt/",
+          "image": "https://cms.bbcearth.com/sites/default/files/2021-01/meer4.jpg",
+          "video": "rKL0QeTULeE"
+        },
+        {
+          "titleVi": "Hà mã",
+          "titleEn": "Hippo",
+          "ipa": "/ˈhɪpəʊ/",
+          "image": "https://cincinnatizoo.org/wp-content/uploads/2021/09/2aJLPnnQ-768x960.jpeg",
+          "video": "4ZKlX51I-r4"
+        },
+        {
+          "titleVi": "Hươu cao cổ",
+          "titleEn": "Giraffe",
+          "ipa": "/dʒəˈræf/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Giraffe_Mikumi_National_Park.jpg",
+          "video": "untKlA9T08U"
+        },
+        {
+          "titleVi": "Kền kền",
+          "titleEn": "Vulture",
+          "ipa": "/ˈvʌltʃər/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Hooded_vulture_%28Necrosyrtes_monachus%29.jpg",
+          "video": "untKlA9T08U"
+        },
+        {
+          "titleVi": "Linh cẩu",
+          "titleEn": "Hyena",
+          "ipa": "/haɪˈiːnə/",
+          "image": "https://scitechdaily.com/images/Hyena-Mother-and-Cub.jpg",
+          "video": "Wt2snMhY5lw"
+        },
+        {
+          "titleVi": "Linh dương",
+          "titleEn": "Antelope",
+          "ipa": "/ˈæntɪləʊp/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Taurotragus_oryx_qtl1.jpg",
+          "video": "znWhKZOYnG8"
+        },
+        {
+          "titleVi": "Lửng",
+          "titleEn": "Badger",
+          "ipa": "/ˈbædʒər/",
+          "image": "https://likhulusafaris.com/uploads/Hunting-Honey-Badger-with-Likhulu-Safaris.jpg",
+          "video": "0UUbD1w6Zo0"
+        },
+        {
+          "titleVi": "Ngựa vằn",
+          "titleEn": "Zebra",
+          "ipa": "/ˈziːbrə/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Plains_Zebra_Equus_quagga.jpg",
+          "video": "-Vl0ZRDMc9A"
+        },
+        {
+          "titleVi": "Sư tủ",
+          "titleEn": "Lion",
+          "ipa": "/ˈlaɪən/",
+          "image": "https://i.natgeofe.com/k/7f67995b-f261-43e3-b747-817865f033ac/cool-things-lions-4_3x4.jpg",
+          "video": "IIVfhDhDnHQ"
+        }
+      ]
     }
   ]
 }
