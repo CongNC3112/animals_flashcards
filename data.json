@@ -342,19 +342,12 @@
           "video": "hXllnTlNugI"
         },
         {
-          "titleVi": "Gián",
-          "titleEn": "Cockroach",
-          "ipa": "/ˈkɒk.rəʊtʃ/",
-          "image": "https://objects.liquidweb.services/images/202408/inat_66d224ed934894.62733447.jpg",
-          "video": "hm-uK72HsrY"
-        },
-        {
           "titleVi": "Muỗi",
           "titleEn": "Mosquito",
           "ipa": "/məˈskiːtəʊ/",
           "image": "https://npr.brightspotcdn.com/dims4/default/dcec8b5/2147483647/strip/true/crop/960x1280+0+0/resize/880x1173!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2F40%2F2460aa72444089ef5c2bbec0b035%2Fkemp-mosquito.jpeg",
           "video": "7Oy6BtMaiSc"
-        },        
+        },       
         {
           "titleVi": "Sói",
           "titleEn": "Wolf",
@@ -366,8 +359,15 @@
           "titleVi": "Rắn",
           "titleEn": "Snake",
           "ipa": "/sneɪk/",
-          "image": "https://vietnamsnakes.com/storage/snakes/species/46/1748341202_0.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bungarus_slowinskii_01.jpg",
           "video": "TLh774sdzQE"
+        },
+        {
+          "titleVi": "Thiêu thân",
+          "titleEn": "Moth",
+          "ipa": "/mɒθ/",
+          "image": "https://www.doncasternaturalhistorysociety.org.uk/wp-content/gallery/moth-noctuidae-amphipyrinae/73.064-Dave-Williamson-Svenssons-Copper-Underwing-22-08-2020-Kirk-Smeaton-VC63-scaled.jpg",
+          "video": "kBOZ57jQcl8"
         }
       ]
     },
@@ -402,7 +402,7 @@
           "titleEn": "Vulture",
           "ipa": "/ˈvʌltʃər/",
           "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Hooded_vulture_%28Necrosyrtes_monachus%29.jpg",
-          "video": "untKlA9T08U"
+          "video": "_5htHuFOPmk"
         },
         {
           "titleVi": "Linh cẩu",
@@ -433,11 +433,19 @@
           "video": "-Vl0ZRDMc9A"
         },
         {
-          "titleVi": "Sư tủ",
+          "titleVi": "Sư tử",
           "titleEn": "Lion",
           "ipa": "/ˈlaɪən/",
           "image": "https://i.natgeofe.com/k/7f67995b-f261-43e3-b747-817865f033ac/cool-things-lions-4_3x4.jpg",
           "video": "IIVfhDhDnHQ"
+        }
+        ,
+        {
+          "titleVi": "Vượn cáo",
+          "titleEn": "Lemur",
+          "ipa": "/ˈliːmər/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ring-tailed_lemur_%28Lemur_catta%29.jpg",
+          "video": "ustBpG6hu5w"
         }
       ]
     }
