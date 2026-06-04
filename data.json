@@ -209,6 +209,20 @@
           "video": "QvdPSGFD0WE"
         },
         {
+          "titleVi": "Sâm cầm",
+          "titleEn": "Coot",
+          "ipa": "/kuːt/",
+          "image": "https://www.australiangeographic.com.au/cdn-cgi/image/width=800,quality=80,format=auto,fit=scale-down/https://www.australiangeographic.com.au/wp-content/uploads/2021/05/BBW7KG-1198x1800.jpg",
+          "video": "uNg5ljfVwLw"
+        },
+{
+          "titleVi": "Tôm",
+          "titleEn": "Shrimp",
+          "ipa": "/ʃrɪmp/",
+          "image": "https://sv1.nhacsong.pro/vuatomchangloan/uploads/images/null/2025-04-19/PZOtuaooVN_31472b91-5bd1-4518-8712-2a6586c255c3.webp",
+          "video": "jjtSE2ZJe94"
+        },
+        {
           "titleVi": "Trai",
           "titleEn": "Mussel",
           "ipa": "/ˈmʌsl/",
@@ -235,13 +249,6 @@
           "ipa": "/ˈlepərd/",
           "image": "https://cdn.kienthuc.net.vn/images/cf739f51f3276a5be16e9cbb75eb67053190c71cea2c5fc814cf46ab4743943dbb0698a7e82d3d7239e5af50ae159096fc41fbf90bbd64df64e8a21a136285eba2ae7709c2ce7af07dd18b992c42f991e23644dfdc176f097e903712477e3d89280605ac1f2355e9741381fa17349226fba30d9a7d3640fce933b196e90e56bc/su-khac-nhau-giua-bao-dom-va-bao-hoa-mai-khong-phai-ai-cung-biet-Hinh-8.jpg",
           "video": "K8vApDYbX0M"
-        },
-        {
-          "titleVi": "Diều hâu",
-          "titleEn": "Hawk",
-          "ipa": "/hɔːk/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Crested_Serpent_Eagle-Spilornis_cheela.jpg",
-          "video": "fKfgOieM7AM"
         },
         {
           "titleVi": "Gấu",
@@ -291,6 +298,13 @@
           "ipa": "/ˈlɪzərd/",
           "image": "https://kleintiergalerie.de/wp-content/uploads/varanus-nebulosus-20170513-5-1350x1800.jpg",
           "video": "d2isqwKr5LQ"
+        },
+        {
+          "titleVi": "Trĩ",
+          "titleEn": "Pheasant",
+          "ipa": "/ˈfeznt/",
+          "image": "https://cdn.feederwatch.org/wp-content/uploads/2024/03/DSC_4481-Edit-scaled.jpg",
+          "video": "32OcgLqVahg"
         },
         {
           "titleVi": "Voi",
@@ -446,6 +460,76 @@
           "ipa": "/ˈliːmər/",
           "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ring-tailed_lemur_%28Lemur_catta%29.jpg",
           "video": "ustBpG6hu5w"
+        }
+      ]
+    },
+    {
+      "id": "mangrove",
+      "name": "Đầm Lầy",
+      "image": "https://drive.google.com/thumbnail?id=1xW594OkHWyztNixyUMlCQDj7MUBm-PLY",
+      "flashcards": [
+        {
+          "titleVi": "Bồ nông",
+          "titleEn": "Pelican",
+          "ipa": "/ˈpelɪkən/",
+          "image": "https://cdn.myportfolio.com/cfdbe75a-7981-4460-ae19-becf3266473c/e5f47f44-c887-4649-9bf2-592d2bced6e7_rw_1200.jpg?h=75a361a22ad1698d702730fd0bea873f",
+          "video": "f6TPQrd-bAM"
+        },
+        {
+          "titleVi": "Cá sấu",
+          "titleEn": "Crocodile",
+          "ipa": "/ˈkrɑːkədaɪl/",
+          "image": "https://res.cloudinary.com/roundglass/image/upload/f_auto/q_auto/f_auto/c_limit,w_auto:breakpoints_200_2560_100_5:1265/v1584523953/roundglass/sustain/Saltwater-Crocodile_Dhritiman-Mukerjee4_l2yayc.jpg",
+          "video": "BYYWjyC11bU"
+        },
+        {
+          "titleVi": "Cua",
+          "titleEn": "Crab",
+          "ipa": "/kræb/",
+          "image": "https://i0.wp.com/www.sooka.com/wp-content/uploads/2023/04/6-4-scaled.jpg",
+          "video": "xqSDhfNTElg"
+        },
+        {
+          "titleVi": "Cuốc",
+          "titleEn": "Waterhen",
+          "ipa": "/'wɔ:təhen/",
+          "image": "https://static.wixstatic.com/media/991922_ae2a8ace3277463a801f7fa077ef4adf~mv2.jpg/v1/fill/w_980,h_1307,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/991922_ae2a8ace3277463a801f7fa077ef4adf~mv2.jpg",
+          "video": "ERwYAmBCruY"
+        },
+        {
+          "titleVi": "Rái cá",
+          "titleEn": "Otter",
+          "ipa": "/ˈɑːtər/",
+          "image": "https://cms.pairidaiza.eu/thumbor/cTw-O4Q1xnDwt2locG7zrEB_3eU=/fit-in/2880x/filters:quality(92)/--/uploads/2024/02/Koen_DSC_1742.jpg",
+          "video": "yPXPHYwlXeI"
+        },
+        {
+          "titleVi": "Rùa",
+          "titleEn": "Turtle",
+          "ipa": "/ˈtɜːrtl/",
+          "image": "https://www.dudleyzoo.org.uk/wp-content/uploads/Giant-Asia-turtle-900x1200.jpg",
+          "video": "S1GQcBpvdDU"
+        },
+        {
+          "titleVi": "Sếu",
+          "titleEn": "Crane",
+          "ipa": "/kreɪn/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sarus_crane_%28Grus_antigone%29.jpg",
+          "video": "rgnVxnemKdc"
+        },
+        {
+          "titleVi": "Tê Tê",
+          "titleEn": "Pangolin",
+          "ipa": "/ˈpæŋɡəlɪn/",
+          "image": "https://wildnet.org/wp-content/uploads/WhatsApp-Image-2023-08-14-at-00.58.55.jpeg",
+          "video": "RSHc8DRYPn4"
+        },
+        {
+          "titleVi": "Trăn",
+          "titleEn": "Python",
+          "ipa": "/ˈpaɪθɑːn/",
+          "image": "https://geographyhost.com/wp-content/uploads/2023/06/Reticulated-Python-portrait.jpg",
+          "video": "kvhZ3zJKSoI"
         }
       ]
     }
