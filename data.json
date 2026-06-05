@@ -195,6 +195,13 @@
           "video": "5bPpYlgh_Wc"
         },
         {
+          "titleVi": "Đỉa",
+          "titleEn": "Leech",
+          "ipa": "/liːtʃ/",
+          "image": "https://e63chwvhsjb.exactdn.com/wp-content/uploads/2020/02/Sigaton_LeechTherapyRevoModernMed1-853x1024.jpg",
+          "video": "TrW9tM1WN3A"
+        },
+        {
           "titleVi": "Lươn",
           "titleEn": "Eel",
           "ipa": "/iːl/",
@@ -209,13 +216,6 @@
           "video": "QvdPSGFD0WE"
         },
         {
-          "titleVi": "Sâm cầm",
-          "titleEn": "Coot",
-          "ipa": "/kuːt/",
-          "image": "https://www.australiangeographic.com.au/cdn-cgi/image/width=800,quality=80,format=auto,fit=scale-down/https://www.australiangeographic.com.au/wp-content/uploads/2021/05/BBW7KG-1198x1800.jpg",
-          "video": "uNg5ljfVwLw"
-        },
-{
           "titleVi": "Tôm",
           "titleEn": "Shrimp",
           "ipa": "/ʃrɪmp/",
@@ -228,90 +228,6 @@
           "ipa": "/ˈmʌsl/",
           "image": "https://preview.redd.it/added-fresh-water-clams-to-my-bog-filter-v0-y9gb8xhb5x4f1.jpeg?width=1080&crop=smart&auto=webp&s=1d65664d04ec9344f5147aa58a152c7847bf8fc1",
           "video": "mEP9cCTKLL8"
-        },
-        {
-          "titleVi": "Vạc",
-          "titleEn": "Heron",
-          "ipa": "/ˈherən/",
-          "image": "https://images.pexels.com/photos/17747704/pexels-photo-17747704.jpeg",
-          "video": "7s27sYsuRj8"
-        }
-      ]
-    },
-    {
-      "id": "jungle",
-      "name": "Rừng Rậm",
-      "image": "https://drive.google.com/thumbnail?id=1Wsc-1oa_dOtTz-D7YQRIcn1bciKaQ-rN",
-      "flashcards": [
-        {
-          "titleVi": "Báo",
-          "titleEn": "Leopard",
-          "ipa": "/ˈlepərd/",
-          "image": "https://cdn.kienthuc.net.vn/images/cf739f51f3276a5be16e9cbb75eb67053190c71cea2c5fc814cf46ab4743943dbb0698a7e82d3d7239e5af50ae159096fc41fbf90bbd64df64e8a21a136285eba2ae7709c2ce7af07dd18b992c42f991e23644dfdc176f097e903712477e3d89280605ac1f2355e9741381fa17349226fba30d9a7d3640fce933b196e90e56bc/su-khac-nhau-giua-bao-dom-va-bao-hoa-mai-khong-phai-ai-cung-biet-Hinh-8.jpg",
-          "video": "K8vApDYbX0M"
-        },
-        {
-          "titleVi": "Gấu",
-          "titleEn": "Bear",
-          "ipa": "/ber/",
-          "image": "https://www.nzherald.co.nz/resizer/WOW_lvfl817OntqqPp67ipaxJ2A=/arc-anglerfish-syd-prod-nzme/public/GMST6C75A5A7JHGYSWTVWV635A.jpg",
-          "video": "3cKQQH_3cgQ"
-        },
-        {
-          "titleVi": "Hổ",
-          "titleEn": "Tiger",
-          "ipa": "/ˈtaɪɡər/",
-          "image": "https://hblimg.mmtcdn.com/content/hubble/img/story_img/mmt/activities/m_webstories_kaziranga_national_park_assam_032025_p_1500_1200.jpg",
-          "video": "sVAyMfPPcv4"
-        },
-        {
-          "titleVi": "Khỉ",
-          "titleEn": "Monkey",
-          "ipa": "/ˈmʌŋki/",
-          "image": "https://images.unsplash.com/photo-1704129964112-de96ef528efd?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8",
-          "video": "qin3sT0vqO0"
-        },        
-        {
-          "titleVi": "Nai",
-          "titleEn": "Deer",
-          "ipa": "/dɪr/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/SAIGON_ZOO_VIETNAM_JAN_2012_%286863428306%29.jpg",
-          "video": "6Q9w0jnlW30"
-        },
-        {
-          "titleVi": "Nhím",
-          "titleEn": "Porcupines",
-          "ipa": "/ˈpɔːrkjupaɪn/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Darica_Kirpi_00911.jpg",
-          "video": "cuwmwKGEOdE"
-        },      
-        {
-          "titleVi": "Tê giác",
-          "titleEn": "Rhino",
-          "ipa": "/ˈraɪnəʊ/",
-          "image": "https://cdn.shopify.com/s/files/1/1185/0798/files/javan-rhino-discovery-6.jpg",
-          "video": "UTwdTfCRyg0"
-        },
-        {
-          "titleVi": "Thằn lằn",
-          "titleEn": "Lizard",
-          "ipa": "/ˈlɪzərd/",
-          "image": "https://kleintiergalerie.de/wp-content/uploads/varanus-nebulosus-20170513-5-1350x1800.jpg",
-          "video": "d2isqwKr5LQ"
-        },
-        {
-          "titleVi": "Trĩ",
-          "titleEn": "Pheasant",
-          "ipa": "/ˈfeznt/",
-          "image": "https://cdn.feederwatch.org/wp-content/uploads/2024/03/DSC_4481-Edit-scaled.jpg",
-          "video": "32OcgLqVahg"
-        },
-        {
-          "titleVi": "Voi",
-          "titleEn": "Elephant",
-          "ipa": "/ˈelɪfənt/",
-          "image": "https://i2-prod.cheshire-live.co.uk/article29390548.ece/ALTERNATES/s1200e/0_Asian-elephant-Aung-Bo-at-Chester-Zoo-27-1.jpg",
-          "video": "d-nf1oe_a8Q"
         }
       ]
     },
@@ -382,84 +298,76 @@
           "ipa": "/mɒθ/",
           "image": "https://www.doncasternaturalhistorysociety.org.uk/wp-content/gallery/moth-noctuidae-amphipyrinae/73.064-Dave-Williamson-Svenssons-Copper-Underwing-22-08-2020-Kirk-Smeaton-VC63-scaled.jpg",
           "video": "kBOZ57jQcl8"
+        },
+        {
+          "titleVi": "Vạc",
+          "titleEn": "Heron",
+          "ipa": "/ˈherən/",
+          "image": "https://bcgforums.com/attachments/yet-another-night-heron-sized-jpg.62133/",
+          "video": "7s27sYsuRj8"
         }
       ]
     },
     {
-      "id": "savanna",
-      "name": "Đồng Cỏ",
-      "image": "https://drive.google.com/thumbnail?id=1ICIu0oScsMaEeRpMqb-JadFXrtWzkVRz",
+      "id": "jungle",
+      "name": "Rừng Rậm",
+      "image": "https://drive.google.com/thumbnail?id=1Wsc-1oa_dOtTz-D7YQRIcn1bciKaQ-rN",
       "flashcards": [
         {
-          "titleVi": "Cầy đất",
-          "titleEn": "Meerkat",
-          "ipa": "/ˈmɪə.kæt/",
-          "image": "https://cms.bbcearth.com/sites/default/files/2021-01/meer4.jpg",
-          "video": "rKL0QeTULeE"
+          "titleVi": "Gấu",
+          "titleEn": "Bear",
+          "ipa": "/ber/",
+          "image": "https://www.nzherald.co.nz/resizer/WOW_lvfl817OntqqPp67ipaxJ2A=/arc-anglerfish-syd-prod-nzme/public/GMST6C75A5A7JHGYSWTVWV635A.jpg",
+          "video": "3cKQQH_3cgQ"
         },
         {
-          "titleVi": "Hà mã",
-          "titleEn": "Hippo",
-          "ipa": "/ˈhɪpəʊ/",
-          "image": "https://cincinnatizoo.org/wp-content/uploads/2021/09/2aJLPnnQ-768x960.jpeg",
-          "video": "4ZKlX51I-r4"
+          "titleVi": "Hổ",
+          "titleEn": "Tiger",
+          "ipa": "/ˈtaɪɡər/",
+          "image": "https://hblimg.mmtcdn.com/content/hubble/img/story_img/mmt/activities/m_webstories_kaziranga_national_park_assam_032025_p_1500_1200.jpg",
+          "video": "sVAyMfPPcv4"
         },
         {
-          "titleVi": "Hươu cao cổ",
-          "titleEn": "Giraffe",
-          "ipa": "/dʒəˈræf/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Giraffe_Mikumi_National_Park.jpg",
-          "video": "untKlA9T08U"
+          "titleVi": "Hồng hoàng",
+          "titleEn": "Hornbill",
+          "ipa": "/ˈhɔːrnbɪl/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Great_hornbill_Photograph_by_Shantanu_Kuveskar.jpg",
+          "video": "UwSkQwBKz-o"
         },
         {
-          "titleVi": "Kền kền",
-          "titleEn": "Vulture",
-          "ipa": "/ˈvʌltʃər/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Hooded_vulture_%28Necrosyrtes_monachus%29.jpg",
-          "video": "_5htHuFOPmk"
+          "titleVi": "Nai",
+          "titleEn": "Deer",
+          "ipa": "/dɪr/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/SAIGON_ZOO_VIETNAM_JAN_2012_%286863428306%29.jpg",
+          "video": "6Q9w0jnlW30"
         },
         {
-          "titleVi": "Linh cẩu",
-          "titleEn": "Hyena",
-          "ipa": "/haɪˈiːnə/",
-          "image": "https://scitechdaily.com/images/Hyena-Mother-and-Cub.jpg",
-          "video": "Wt2snMhY5lw"
+          "titleVi": "Nhím",
+          "titleEn": "Porcupines",
+          "ipa": "/ˈpɔːrkjupaɪn/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Darica_Kirpi_00911.jpg",
+          "video": "cuwmwKGEOdE"
+        },      
+        {
+          "titleVi": "Tê giác",
+          "titleEn": "Rhino",
+          "ipa": "/ˈraɪnəʊ/",
+          "image": "https://cdn.shopify.com/s/files/1/1185/0798/files/javan-rhino-discovery-6.jpg",
+          "video": "UTwdTfCRyg0"
         },
         {
-          "titleVi": "Linh dương",
-          "titleEn": "Antelope",
-          "ipa": "/ˈæntɪləʊp/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Taurotragus_oryx_qtl1.jpg",
-          "video": "znWhKZOYnG8"
+          "titleVi": "Trĩ",
+          "titleEn": "Pheasant",
+          "ipa": "/ˈfeznt/",
+          "image": "https://cdn.feederwatch.org/wp-content/uploads/2024/03/DSC_4481-Edit-scaled.jpg",
+          "video": "32OcgLqVahg"
         },
         {
-          "titleVi": "Lửng",
-          "titleEn": "Badger",
-          "ipa": "/ˈbædʒər/",
-          "image": "https://likhulusafaris.com/uploads/Hunting-Honey-Badger-with-Likhulu-Safaris.jpg",
-          "video": "0UUbD1w6Zo0"
-        },
-        {
-          "titleVi": "Ngựa vằn",
-          "titleEn": "Zebra",
-          "ipa": "/ˈziːbrə/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Plains_Zebra_Equus_quagga.jpg",
-          "video": "-Vl0ZRDMc9A"
-        },
-        {
-          "titleVi": "Sư tử",
-          "titleEn": "Lion",
-          "ipa": "/ˈlaɪən/",
-          "image": "https://i.natgeofe.com/k/7f67995b-f261-43e3-b747-817865f033ac/cool-things-lions-4_3x4.jpg",
-          "video": "IIVfhDhDnHQ"
-        }
-        ,
-        {
-          "titleVi": "Vượn cáo",
-          "titleEn": "Lemur",
-          "ipa": "/ˈliːmər/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ring-tailed_lemur_%28Lemur_catta%29.jpg",
-          "video": "ustBpG6hu5w"
+          "titleVi": "Voi",
+          "titleEn": "Elephant",
+          "ipa": "/ˈelɪfənt/",
+          "image": "https://i2-prod.cheshire-live.co.uk/article29390548.ece/ALTERNATES/s1200e/0_Asian-elephant-Aung-Bo-at-Chester-Zoo-27-1.jpg",
+          "video": "d-nf1oe_a8Q"
         }
       ]
     },
@@ -497,6 +405,13 @@
           "video": "ERwYAmBCruY"
         },
         {
+          "titleVi": "Khỉ",
+          "titleEn": "Monkey",
+          "ipa": "/ˈmʌŋki/",
+          "image": "https://images.unsplash.com/photo-1704129964112-de96ef528efd?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8",
+          "video": "qin3sT0vqO0"
+        },
+        {
           "titleVi": "Rái cá",
           "titleEn": "Otter",
           "ipa": "/ˈɑːtər/",
@@ -530,6 +445,202 @@
           "ipa": "/ˈpaɪθɑːn/",
           "image": "https://geographyhost.com/wp-content/uploads/2023/06/Reticulated-Python-portrait.jpg",
           "video": "kvhZ3zJKSoI"
+        }
+      ]
+    },
+    {
+      "id": "savanna",
+      "name": "Đồng Cỏ",
+      "image": "https://drive.google.com/thumbnail?id=1ICIu0oScsMaEeRpMqb-JadFXrtWzkVRz",
+      "flashcards": [
+        {
+          "titleVi": "Cầy đất",
+          "titleEn": "Meerkat",
+          "ipa": "/ˈmɪə.kæt/",
+          "image": "https://cms.bbcearth.com/sites/default/files/2021-01/meer4.jpg",
+          "video": "rKL0QeTULeE"
+        },
+        {
+          "titleVi": "Hà mã",
+          "titleEn": "Hippo",
+          "ipa": "/ˈhɪpəʊ/",
+          "image": "https://cincinnatizoo.org/wp-content/uploads/2021/09/2aJLPnnQ-768x960.jpeg",
+          "video": "4ZKlX51I-r4"
+        },
+        {
+          "titleVi": "Hươu cao cổ",
+          "titleEn": "Giraffe",
+          "ipa": "/dʒəˈræf/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Giraffe_Mikumi_National_Park.jpg",
+          "video": "untKlA9T08U"
+        }
+        {
+          "titleVi": "Linh cẩu",
+          "titleEn": "Hyena",
+          "ipa": "/haɪˈiːnə/",
+          "image": "https://scitechdaily.com/images/Hyena-Mother-and-Cub.jpg",
+          "video": "Wt2snMhY5lw"
+        },
+        {
+          "titleVi": "Linh dương",
+          "titleEn": "Antelope",
+          "ipa": "/ˈæntɪləʊp/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Taurotragus_oryx_qtl1.jpg",
+          "video": "znWhKZOYnG8"
+        },
+        {
+          "titleVi": "Lửng",
+          "titleEn": "Badger",
+          "ipa": "/ˈbædʒər/",
+          "image": "https://likhulusafaris.com/uploads/Hunting-Honey-Badger-with-Likhulu-Safaris.jpg",
+          "video": "0UUbD1w6Zo0"
+        },
+        {
+          "titleVi": "Ngựa vằn",
+          "titleEn": "Zebra",
+          "ipa": "/ˈziːbrə/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Plains_Zebra_Equus_quagga.jpg",
+          "video": "-Vl0ZRDMc9A"
+        },
+        {
+          "titleVi": "Sư tử",
+          "titleEn": "Lion",
+          "ipa": "/ˈlaɪən/",
+          "image": "https://i.natgeofe.com/k/7f67995b-f261-43e3-b747-817865f033ac/cool-things-lions-4_3x4.jpg",
+          "video": "IIVfhDhDnHQ"
+        }
+      ]
+    },
+    {
+      "id": "desert",
+      "name": "Hoang Mạc",
+      "image": "https://drive.google.com/thumbnail?id=1RYR5-qk3mfo1YwpGNEd2AkwFKvn8iDXQ",
+      "flashcards": [
+        {
+          "titleVi": "Bọ cạp",
+          "titleEn": "Scorpion",
+          "ipa": "/ˈskɔːrpiən/",
+          "image": "https://davethebugguy.org/wp-content/uploads/2025/12/original.jpg",
+          "video": "cttUwfQ_0xA"
+        },
+        {
+          "titleVi": "Bọ hung",
+          "titleEn": "Scarab",
+          "ipa": "/ˈskærəb/",
+          "image": "https://www.galerie-insecte.org/galerie/image/dos72/temp/scarabaeus.jpg",
+          "video": "7KVCl2J6InQ"
+        },
+        {
+          "titleVi": "Cáo",
+          "titleEn": "Fox",
+          "ipa": "/fɑːks/",
+          "image": "https://i.pinimg.com/originals/1d/e2/01/1de201cb3ceeb0a4a44279f2073a5289.jpg",
+          "video": "mJyK6k3HQTs"
+        },
+        {
+          "titleVi": "Đại bàng",
+          "titleEn": "Eagle",
+          "ipa": "/ˈiːɡl/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Steppe_Eagle_Portrait.jpg",
+          "video": "asEAN3wy2zk"
+        },
+        {
+          "titleVi": "Kền kền",
+          "titleEn": "Vulture",
+          "ipa": "/ˈvʌltʃər/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Hooded_vulture_%28Necrosyrtes_monachus%29.jpg",
+          "video": "_5htHuFOPmk"
+        },
+        {
+          "titleVi": "Lạc đà",
+          "titleEn": "Camel",
+          "ipa": "/ˈkæml/",
+          "image": "https://i.pinimg.com/736x/a7/19/b0/a719b03348c46f4660dcfcadef62528c.jpg",
+          "video": "l_mjSu_m50M"
+        },
+        {
+          "titleVi": "Lợn lòi",
+          "titleEn": "Warthog",
+          "ipa": "/ˈwɔːrthɑːɡ/",
+          "image": "https://i.pinimg.com/736x/d0/b1/50/d0b150d6ef5e61fa9d1eb26a6f25e3fb.jpg",
+          "video": "UBzaLAdsQzk"
+        },
+        {
+          "titleVi": "Thằn lằn",
+          "titleEn": "Lizard",
+          "ipa": "/ˈlɪzərd/",
+          "image": "https://media.assettype.com/outlooktraveller/2025-08-01/kalmkgcb/snapins-ai3597045917968704366.jpg",
+          "video": "KxIwjOTKdrA"
+        }
+      ]
+    },
+    {
+      "id": "island",
+      "name": "Hải Đảo",
+      "image": "https://drive.google.com/thumbnail?id=1s_j_AAQH8UCI6Sga3-o_vBGYSyzRA_Cy",
+      "flashcards": [
+        {
+          "titleVi": "Cá ngựa",
+          "titleEn": "Seahorse",
+          "ipa": "/ˈsiːhɔːrs/",
+          "image": "https://c02.purpledshub.com/uploads/sites/62/2025/07/seahorse-2.jpg",
+          "video": "Sf9811kZVP0"
+        },
+        {
+          "titleVi": "Cầu gai",
+          "titleEn": "Urchin",
+          "ipa": "/ˈɜːrtʃɪn/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Sea_Urchin_off_Florida_coast_2007-08-06.JPG",
+          "video": "n31Qamklk2A"
+        },
+        {
+          "titleVi": "Hải âu",
+          "titleEn": "Seagull",
+          "ipa": "/ˈsiːɡʌl/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Pacific_gull_%28Larus_pacificus_pacificus%29_Freycinet.jpg",
+          "video": "5cvo_oKcsXI"
+        },
+        {
+          "titleVi": "Hải sâm",
+          "titleEn": "Sea cucumber",
+          "ipa": "/ˌsiː ˈkjuːkʌmbər/",
+          "image": "https://res.cloudinary.com/roundglass/image/upload/v1667989178/rg/collective/media/herrmann-sea-cucumber-stichopus-herrmanni-vardhan-patankar_opjwsv.jpg",
+          "video": "UkSbPFQzA00"
+        },
+        {
+          "titleVi": "Ốc",
+          "titleEn": "Snail",
+          "ipa": "/sneɪl/",
+          "image": "https://wallpapers.com/images/hd/queen-conch-underwater-sandy-bottom-caehljuqkv54y6wg.jpg",
+          "video": "1tiAxNN6bcE"
+        },
+        {
+          "titleVi": "San hô",
+          "titleEn": "Coral",
+          "ipa": "/ˈkɔːrəl/",
+          "image": "https://oceanconservancy.org/wp-content/uploads/2018/12/IYORBank_Australia_JayneJenkins_02-scaled-1.jpg",
+          "video": "HlfM8AgJCYM"
+        },
+        {
+          "titleVi": "Sao biển",
+          "titleEn": "Starfish",
+          "ipa": "/ˈstɑːrfɪʃ/",
+          "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/63CA/production/_95864552_starfisheight.jpg",
+          "video": "yxOagDz6r8U"
+        },
+        {
+          "titleVi": "Vượn cáo",
+          "titleEn": "Lemur",
+          "ipa": "/ˈliːmər/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ring-tailed_lemur_%28Lemur_catta%29.jpg",
+          "video": "ustBpG6hu5w"
+        },
+        {
+          "titleVi": "Yến",
+          "titleEn": "Swiftlet",
+          "ipa": "/ˈswɪft.lət/",
+          "image": "https://vnn-imgs-f.vgcloud.vn/2020/02/15/15/received-593102714603741.jpeg",
+          "video": "kSFBnN3XLWI"
         }
       ]
     }
