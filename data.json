@@ -10,7 +10,7 @@
           "titleEn": "Cow",
           "ipa": "/kaʊ/",
           "image": "https://demoda.vn/wp-content/uploads/2022/06/hinh-anh-con-bo-vang.jpg",
-          "video": "GQSw01jICNo"
+          "video": "i2GodJUmTWw"
         },
         {
           "titleVi": "Cừu",
@@ -66,14 +66,14 @@
           "titleEn": "Rabbit",
           "ipa": "/ˈræb.ɪt/",
           "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Oryctolagus_cuniculus_Rcdo.jpg",
-          "video": "sn-yF2Al8lo"
+          "video": "W1QmVR8f2Rg"
         },
         {
           "titleVi": "Trâu",
           "titleEn": "Buffalo",
           "ipa": "/ˈbʌf.ə.loʊ/",
           "image": "https://diveconcepts.com/img/media_library/water-buffao-on-komodo-island_07012021001835bfd710dcb3e669b3bdaeb3776cfdcce1.jpg",
-          "video": "G0120fqBvn4"
+          "video": "gqxJ4Qzcvs0"
         }
       ]
     },
@@ -234,7 +234,7 @@
     {
       "id": "night",
       "name": "Ban Đêm",
-      "image": "https://drive.google.com/thumbnail?id=1N6xJY2IEruokazAbW14CRKRDcZaJfYV2",
+      "image": "https://drive.google.com/thumbnail?id=1ERmMq9E-zE_xAXfFsjkgCmtLB9gArJGr",
       "flashcards": [        
         {
           "titleVi": "Chồn",
@@ -641,6 +641,76 @@
           "ipa": "/ˈswɪft.lət/",
           "image": "https://vnn-imgs-f.vgcloud.vn/2020/02/15/15/received-593102714603741.jpeg",
           "video": "kSFBnN3XLWI"
+        }
+      ]
+    },
+    {
+      "id": "ocean",
+      "name": "Đại Dương",
+      "image": "https://drive.google.com/thumbnail?id=1pGiJlC9RVNx8hWjJ_Rwa0zLZJQQKxtyl",
+      "flashcards": [
+        {
+          "titleVi": "Bạch tuộc",
+          "titleEn": "Octopus",
+          "ipa": "/ˈɑːktəpʊs/",
+          "image": "https://static01.nyt.com/images/2025/06/10/10sci-antarcticsquid-21882-cover/10sci-antarcticsquid-21882-cover-verticalTwoByThree735-v2.jpg",
+          "video": "gWw56HWATRw"
+        },
+        {
+          "titleVi": "Cá chuồn",
+          "titleEn": "Flying fish",
+          "ipa": "/ˌflaɪɪŋ ˈfɪʃ/",
+          "image": "https://images.news18.com/webstories/uploads/2024/09/1-2024-09-3ef8592f59f5f6b0a3e11364c03275ba.jpg",
+          "video": "15MU9iyVjSU"
+        },
+        {
+          "titleVi": "Cá đuối",
+          "titleEn": "Ray fish",
+          "ipa": "/reɪ fɪʃ/",
+          "image": "https://images.news18.com/webstories/uploads/2024/09/1-2024-09-3ef8592f59f5f6b0a3e11364c03275ba.jpg",
+          "video": "15MU9iyVjSU"
+        },
+        {
+          "titleVi": "Cá heo",
+          "titleEn": "Dolphin",
+          "ipa": "/ˈdɑːlfɪn/",
+          "image": "https://learningmole.com/wp-content/uploads/2023/11/pexels-coral-grandbois-7316200-1.jpg",
+          "video": "mf2wZfIafqw"
+        },
+        {
+          "titleVi": "Cá kiếm",
+          "titleEn": "Swordfish",
+          "ipa": "/ˈsɔːrdfɪʃ/",
+          "image": "https://www.garlicandzest.com/wp-content/uploads/2023/05/Untitled-design-97-1.jpg",
+          "video": "pfycc1TplDg"
+        },
+        {
+          "titleVi": "Cá mập",
+          "titleEn": "Shark",
+          "ipa": "/ʃɑːrk/",
+          "image": "https://i.natgeofe.com/k/64a17a68-7f3b-4246-850c-af430ab3d966/great-white-og_2x3.jpg",
+          "video": "Pf2i2ViZMuM"
+        },
+        {
+          "titleVi": "Cá voi",
+          "titleEn": "Whale",
+          "ipa": "/weɪl/",
+          "image": "https://transcode-v2.app.engoo.com/image/fetch/f_auto,c_limit,h_384,dpr_3/https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/78D3TkoLoPyLlsQmjKkw7U.jpeg",
+          "video": "KUyH4TAfCVc"
+        },
+        {
+          "titleVi": "Mực",
+          "titleEn": "Squid",
+          "ipa": "/skwɪd/",
+          "image": "https://static01.nyt.com/images/2025/06/10/10sci-antarcticsquid-21882-cover/10sci-antarcticsquid-21882-cover-verticalTwoByThree735-v2.jpg",
+          "video": "gWw56HWATRw"
+        },
+        {
+          "titleVi": "Sứa",
+          "titleEn": "Jellyfish",
+          "ipa": "/ˈdʒelifɪʃ/",
+          "image": "https://media.craiyon.com/2025-07-09/-B0oDzJFST6dKs9tCpW8Aw.webp",
+          "video": "8CBKSBOAQis"
         }
       ]
     }
