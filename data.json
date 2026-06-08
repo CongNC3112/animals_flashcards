@@ -195,13 +195,6 @@
           "video": "5bPpYlgh_Wc"
         },
         {
-          "titleVi": "Đỉa",
-          "titleEn": "Leech",
-          "ipa": "/liːtʃ/",
-          "image": "https://e63chwvhsjb.exactdn.com/wp-content/uploads/2020/02/Sigaton_LeechTherapyRevoModernMed1-853x1024.jpg",
-          "video": "TrW9tM1WN3A"
-        },
-        {
           "titleVi": "Lươn",
           "titleEn": "Eel",
           "ipa": "/iːl/",
@@ -237,7 +230,7 @@
       "image": "https://drive.google.com/thumbnail?id=1ERmMq9E-zE_xAXfFsjkgCmtLB9gArJGr",
       "flashcards": [        
         {
-          "titleVi": "Chồn",
+          "titleVi": "Chồn hương",
           "titleEn": "Civet",
           "ipa": "/ˈsɪvɪt/",
           "image": "https://media.urbanistnetwork.com/saigoneer/article-images/2022/02/28/ns-civet/14b.jpg",
@@ -272,6 +265,13 @@
           "video": "hXllnTlNugI"
         },
         {
+          "titleVi": "Đom đóm",
+          "titleEn": "Firefly",
+          "ipa": "/ˈfaɪərflaɪ/",
+          "image": "https://diak46rl5chc7.cloudfront.net/orgs/136294/post_details/jgekv1ga0yj0mncd/x1500_jgekv1ga0yj0mncd.png",
+          "video": "qyaSK4lCU5I"
+        },
+        {
           "titleVi": "Muỗi",
           "titleEn": "Mosquito",
           "ipa": "/məˈskiːtəʊ/",
@@ -293,13 +293,6 @@
           "video": "TLh774sdzQE"
         },
         {
-          "titleVi": "Thiêu thân",
-          "titleEn": "Moth",
-          "ipa": "/mɒθ/",
-          "image": "https://www.doncasternaturalhistorysociety.org.uk/wp-content/gallery/moth-noctuidae-amphipyrinae/73.064-Dave-Williamson-Svenssons-Copper-Underwing-22-08-2020-Kirk-Smeaton-VC63-scaled.jpg",
-          "video": "kBOZ57jQcl8"
-        },
-        {
           "titleVi": "Vạc",
           "titleEn": "Heron",
           "ipa": "/ˈherən/",
@@ -311,7 +304,7 @@
     {
       "id": "jungle",
       "name": "Rừng Rậm",
-      "image": "https://drive.google.com/thumbnail?id=1Wsc-1oa_dOtTz-D7YQRIcn1bciKaQ-rN",
+      "image": "https://drive.google.com/thumbnail?id=1bcyv4fpLeAYZkh0Uj_HRZZ3ocCVLhzKp",
       "flashcards": [
         {
           "titleVi": "Gấu",
@@ -335,11 +328,18 @@
           "video": "UwSkQwBKz-o"
         },
         {
-          "titleVi": "Nai",
+          "titleVi": "Hươu sao",
           "titleEn": "Deer",
           "ipa": "/dɪr/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/SAIGON_ZOO_VIETNAM_JAN_2012_%286863428306%29.jpg",
-          "video": "6Q9w0jnlW30"
+          "image": "https://www.pugdundeesafaris.com/blog/wp-content/uploads/2015/09/MG_9851-Spotted-Deer-24x16.webp",
+          "video": "bKRl3HNBspM"
+        },
+        {
+          "titleVi": "Kỳ nhông",
+          "titleEn": "Salamander",
+          "ipa": "/ˈsæləmændər/",
+          "image": "https://media.wired.com/photos/5aff07889b3a517fcaece111/master/w_1600,c_limit/salamander1.jpg",
+          "video": "qcXP2fyULL8"
         },
         {
           "titleVi": "Nhím",
@@ -354,6 +354,13 @@
           "ipa": "/ˈraɪnəʊ/",
           "image": "https://cdn.shopify.com/s/files/1/1185/0798/files/javan-rhino-discovery-6.jpg",
           "video": "UTwdTfCRyg0"
+        },
+        {
+          "titleVi": "Tê Tê",
+          "titleEn": "Pangolin",
+          "ipa": "/ˈpæŋɡəlɪn/",
+          "image": "https://wildnet.org/wp-content/uploads/WhatsApp-Image-2023-08-14-at-00.58.55.jpeg",
+          "video": "RSHc8DRYPn4"
         },
         {
           "titleVi": "Trĩ",
@@ -380,7 +387,7 @@
           "titleVi": "Bồ nông",
           "titleEn": "Pelican",
           "ipa": "/ˈpelɪkən/",
-          "image": "https://www.fnqchromaluxe.com.au/wp-content/uploads/2024/02/products-Pelican-2.webp",
+          "image": "https://abcbirds.org/wp-content/uploads/2026/02/Brown-Pelican.-Photo-by-Bruce-Beehler-scaled.webp",
           "video": "f6TPQrd-bAM"
         },
         {
@@ -389,6 +396,20 @@
           "ipa": "/ˈkrɑːkədaɪl/",
           "image": "https://res.cloudinary.com/roundglass/image/upload/f_auto/q_auto/f_auto/c_limit,w_auto:breakpoints_200_2560_100_5:1265/v1584523953/roundglass/sustain/Saltwater-Crocodile_Dhritiman-Mukerjee4_l2yayc.jpg",
           "video": "BYYWjyC11bU"
+        },
+        {
+          "titleVi": "Cá thòi lòi",
+          "titleEn": "Mudskipper",
+          "ipa": "/ˈkrɑːkədaɪl/",
+          "image": "https://images.news18.com/webstories/uploads/2025/02/9-2025-02-f349fc708a75f757c88e6bb00cea75e0.jpg",
+          "video": "nOw59MxI3Uo"
+        },
+        {
+          "titleVi": "Cồng cộc",
+          "titleEn": "Cormorant",
+          "ipa": "/ˈkɔːrmərənt/",
+          "image": "https://c.stocksy.com/a/tzo300/z9/911021.jpg",
+          "video": "N9mM-mHuMvM"
         },
         {
           "titleVi": "Cua",
@@ -405,6 +426,13 @@
           "video": "ERwYAmBCruY"
         },
         {
+          "titleVi": "Đỉa",
+          "titleEn": "Leech",
+          "ipa": "/liːtʃ/",
+          "image": "https://e63chwvhsjb.exactdn.com/wp-content/uploads/2020/02/Sigaton_LeechTherapyRevoModernMed1-853x1024.jpg",
+          "video": "TrW9tM1WN3A"
+        },
+        {
           "titleVi": "Khỉ",
           "titleEn": "Monkey",
           "ipa": "/ˈmʌŋki/",
@@ -419,25 +447,11 @@
           "video": "yPXPHYwlXeI"
         },
         {
-          "titleVi": "Rùa",
-          "titleEn": "Turtle",
-          "ipa": "/ˈtɜːrtl/",
-          "image": "https://www.dudleyzoo.org.uk/wp-content/uploads/Giant-Asia-turtle-900x1200.jpg",
-          "video": "S1GQcBpvdDU"
-        },
-        {
           "titleVi": "Sếu",
           "titleEn": "Crane",
           "ipa": "/kreɪn/",
           "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sarus_crane_%28Grus_antigone%29.jpg",
           "video": "rgnVxnemKdc"
-        },
-        {
-          "titleVi": "Tê Tê",
-          "titleEn": "Pangolin",
-          "ipa": "/ˈpæŋɡəlɪn/",
-          "image": "https://wildnet.org/wp-content/uploads/WhatsApp-Image-2023-08-14-at-00.58.55.jpeg",
-          "video": "RSHc8DRYPn4"
         },
         {
           "titleVi": "Trăn",
@@ -459,6 +473,13 @@
           "ipa": "/ˈmɪə.kæt/",
           "image": "https://cms.bbcearth.com/sites/default/files/2021-01/meer4.jpg",
           "video": "rKL0QeTULeE"
+        },
+        {
+          "titleVi": "Chim thư ký",
+          "titleEn": "Secretary bird",
+          "ipa": "/ˈsekrəteri bɜːrd/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Secretary-Bird.jpg",
+          "video": "O4aDDAKpsiQ"
         },
         {
           "titleVi": "Hà mã",
@@ -580,11 +601,25 @@
       "image": "https://drive.google.com/thumbnail?id=1s_j_AAQH8UCI6Sga3-o_vBGYSyzRA_Cy",
       "flashcards": [
         {
+          "titleVi": "Bò biển",
+          "titleEn": "Dugong",
+          "ipa": "/ˈduːɡɑːŋ/",
+          "image": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fbyfjok3mt59g1.jpeg",
+          "video": "SiQJfWEP47M"
+        },
+        {
           "titleVi": "Cá ngựa",
           "titleEn": "Seahorse",
           "ipa": "/ˈsiːhɔːrs/",
           "image": "https://c02.purpledshub.com/uploads/sites/62/2025/07/seahorse-2.jpg",
           "video": "Sf9811kZVP0"
+        },
+        {
+          "titleVi": "Cá nóc",
+          "titleEn": "Pufferfish",
+          "ipa": "/ˈpʌfərfɪʃ/",
+          "image": "https://static.wikia.nocookie.net/feed-and-grow-fish/images/1/1d/37-373969_puffer-fish-in-water.jpg",
+          "video": "0J_JC09nYxQ"
         },
         {
           "titleVi": "Cầu gai",
@@ -706,11 +741,137 @@
           "video": "gWw56HWATRw"
         },
         {
+          "titleVi": "Rùa",
+          "titleEn": "Turtle",
+          "ipa": "/ˈtɜːrtl/",
+          "image": "https://irp.cdn-website.com/6aa52cbd/dms3rep/multi/xiaoliuqiu+green+sea+turtle.png",
+          "video": "2ilQOgC4-DE"
+        },
+        {
           "titleVi": "Sứa",
           "titleEn": "Jellyfish",
           "ipa": "/ˈdʒelifɪʃ/",
           "image": "https://media.craiyon.com/2025-07-09/-B0oDzJFST6dKs9tCpW8Aw.webp",
           "video": "8CBKSBOAQis"
+        }
+      ]
+    },
+    {
+      "id": "taiga",
+      "name": "Rừng Lá Kim",
+      "image": "https://drive.google.com/thumbnail?id=1KLKx-ZJbHQkREjeNV8XacgOH44nR_abw",
+      "flashcards": [
+        {
+          "titleVi": "Cá hồi",
+          "titleEn": "Salmon",
+          "ipa": "/ˈsæmən/",
+          "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvZmwzMDc5NjI1NjY1Ny1pbWFnZS1rdTIzaDFkZi5qcGc.jpg",
+          "video": "isAQg_dwGPg"
+        },
+        {
+          "titleVi": "Chim cắt",
+          "titleEn": "Hawk",
+          "ipa": "/hɔːk/",
+          "image": "https://justbirding.com/wp-content/uploads/2018/05/Northern-Goshawk.jpg",
+          "video": "p20B2FFi1zk"
+        },
+        {
+          "titleVi": "Chim gõ kiến",
+          "titleEn": "Woodpecker",
+          "ipa": "/ˈwʊdpekər/",
+          "image": "https://sk.birdatlas.ca/photos/SKATLAS_PIWO_1_Glen_Fox.jpg",
+          "video": "p5Raa2qdVQw"
+        },
+        {
+          "titleVi": "Chuột chũi",
+          "titleEn": "Mole",
+          "ipa": "/məʊl/",
+          "image": "https://cdn.t3pedia.org/media/uploads/2026/03/10/Z9UZoH14npkFPGbIzUfyG53t3jw9SpYp.png",
+          "video": "7B-7CrZh6u0"
+        },
+        {
+          "titleVi": "Hải ly",
+          "titleEn": "Beaver",
+          "ipa": "/ˈbiːvər/",
+          "image": "https://bearizona.com/wp-content/uploads/2022/09/Beaver-photo.jpeg",
+          "video": "IgHnX-NSUZI"
+        },
+        {
+          "titleVi": "Linh miêu",
+          "titleEn": "Lynx",
+          "ipa": "/lɪŋks/",
+          "image": "https://cdn1.tedsby.com/tb/large/storage/8/7/2/872169/cute-handmade-cat-canadian-lynx.jpg",
+          "video": "X7nep1tY4V0"
+        },
+        {
+          "titleVi": "Nai sừng tấm",
+          "titleEn": "Moose",
+          "ipa": "/muːs/",
+          "image": "https://i.etsystatic.com/32320698/r/il/d97617/3392343836/il_fullxfull.3392343836_296t.jpg",
+          "video": "oYkggkgofl0"
+        },
+        {
+          "titleVi": "Quạ",
+          "titleEn": "Crow",
+          "ipa": "/krəʊ/",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/088_Wild_Carrion_crow_in_flight_at_Lake_Geneva_Photo_by_Giles_Laurent.jpg",
+          "video": "OSog_PrL-0w"
+        },
+        {
+          "titleVi": "Tuần lộc",
+          "titleEn": "Reindeer",
+          "ipa": "/ˈreɪn.dɪər/",
+          "image": "https://www.josephfiler.com/images/xl/Caribou-Alaska-2665-Edit.jpg",
+          "video": "fqhU_XTmZj8"
+        }
+      ]
+    },
+    {
+      "id": "artactica",
+      "name": "Vùng Cực",
+      "image": "https://drive.google.com/thumbnail?id=18pYVZGxsCakPKn3SBBdUjov5wg3k4xNT",
+      "flashcards": [
+        {
+          "titleVi": "Cá voi sát thủ",
+          "titleEn": "Orca",
+          "ipa": "/ˈɔːrkə/",
+          "image": "https://www.scubadiving.com/sites/default/files/styles/655_1x_webp/public/trevor/TY42799-Dv-brandon_cole_edit.jpg.webp",
+          "video": "YNgfkvavFU4"
+        },
+        {
+          "titleVi": "Chim cánh cụt",
+          "titleEn": "Penguin",
+          "ipa": "/ˈpeŋɡwɪn/",
+          "image": "https://www.antarctica.gov.au/site/assets/files/45561/rs31749_rich_youd_2016-02-23_2x1a9787.1200x0.jpg",
+          "video": "3WOWS-8HN1k"
+        },
+        {
+          "titleVi": "Gấu trắng",
+          "titleEn": "Polar bear",
+          "ipa": "/ˈpəʊlər ber/",
+          "image": "https://churchillwild.com/wp-content/uploads/2020/02/Polar-bear-Dymond-Lake-Ecolodge-Jianguo-Xie.jpg",
+          "video": "3XRXIay9nIY"
+        },
+        {
+          "titleVi": "Hải cẩu",
+          "titleEn": "Seal",
+          "ipa": "/siːl/",
+          "image": "https://baleinesendirect.org/wp-content/uploads/2025/03/20250015_20250310_S_GB_OK_IMG_4668-scaled.jpg",
+          "video": "SrZOIoRyLi4"
+        },
+        {
+          "titleVi": "Kỳ lân biển",
+          "titleEn": "Narwhal",
+          "ipa": "/ˈnɑːrwɑːl/",
+          "image": "https://www.secretatlas.com/img/asset/YXNzZXRzL2hhbmRib29rL3dpbGRsaWZlLSYtbmF0dXJlLW1pY3JvLWd1aWRlcy9hbmltYWxzLW9mLWdyZWVubGFuZC9uYXJ3aGFsLXdoYWxlLXVuZGVyd2F0ZXItcGhvdG8tc2h1dHRlcnN0b2NrLXNlY3JldC1hdGxhcy5qcGc/narwhal-whale-underwater-photo-shutterstock-secret-atlas.jpg?fm=webp&q=90&fit=crop-50-50&w=694&h=1234&s=d2af26902ff690ab0edd3edb67ec8b84",
+          "video": "rMkCz4F85ds"
+        },
+        {
+          "titleVi": "Moóc",
+          "titleEn": "Walrus",
+          "ipa": "/ˈwɔːlrəs/",
+          "image": "https://images.squarespace-cdn.com/content/v1/6662e7cabaf27134eb09d456/1718614099978-PS7SEK9I5YF2JXDQMQ9M/2017_06_20_33796.jpg",
+          "video": "v2o85yxURe8"
         }
       ]
     }
