@@ -9,70 +9,70 @@
           "titleVi": "Bò",
           "titleEn": "Cow",
           "ipa": "/kaʊ/",
-          "image": "https://demoda.vn/wp-content/uploads/2022/06/hinh-anh-con-bo-vang.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780975776/cow_twfn6u.avif",
           "video": "i2GodJUmTWw"
         },
         {
           "titleVi": "Cừu",
           "titleEn": "Sheep",
           "ipa": "/ʃiːp/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Cotswold_Sheep.JPG",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780975777/sheep_p61na1.avif",
           "video": "B_S86rdyRrs"
         },
         {
           "titleVi": "Chó",
           "titleEn": "Dog",
           "ipa": "/dɑːɡ/",
-          "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2020/11/4/851633/Cho-Coc-2.JPG",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780975776/dog_eual5n.avif",
           "video": "NxmsCiBHSBw"
         },
         {
           "titleVi": "Dê",
           "titleEn": "Goat",
           "ipa": "/ɡoʊt/",
-          "image": "https://images.squarespace-cdn.com/content/v1/606de2f5ee6e3a34c8370f15/bc31bf2a-a77c-4b1f-acde-7458a1c7afae/_DSC9030-Enhanced.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780975780/goat_bgzg7k.avif",
           "video": "uhKfsZ9_2cc"
         },
          {
           "titleVi": "Lợn",
           "titleEn": "Pig",
           "ipa": "/pɪɡ/",
-          "image": "https://images.squarespace-cdn.com/content/v1/63257c5fe37f66705b2bcf79/f94840c0-6c35-4541-9850-726e2ccb6fff/unsplash-image-Y06imaOLycY.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780975777/pig_cfi17h.avif",
           "video": "Yoagaztv5bQ"
         },
         {
           "titleVi": "Lừa",
           "titleEn": "Donkey",
           "ipa": "/ˈdɑːŋ.ki/",
-          "image": "https://images.squarespace-cdn.com/content/v1/5dac7eefb6c1842bf8067e35/b8cd1fa9-a6da-4a01-a833-fbe582705071/Donkey+3.JPG",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780975777/donkey_tf6bw3.avif",
           "video": "egQdIUQnV2k"
         },
         {
           "titleVi": "Mèo",
           "titleEn": "Cat",
           "ipa": "/kæt/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780975776/cat_lqznk4.avif",
           "video": "TcPXFRq-_Q4"
         },
         {
           "titleVi": "Ngựa",
           "titleEn": "Horse",
           "ipa": "/hɔːrs/",
-          "image": "https://i.pinimg.com/736x/fc/04/0d/fc040d4715b4082566b2f83818cb4253.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780975777/horse_becpal.avif",
           "video": "OVYXb1sy5e0"
         },
         {
           "titleVi": "Thỏ",
           "titleEn": "Rabbit",
           "ipa": "/ˈræb.ɪt/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Oryctolagus_cuniculus_Rcdo.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780975778/rabbit_wvpoiz.avif",
           "video": "W1QmVR8f2Rg"
         },
         {
           "titleVi": "Trâu",
           "titleEn": "Buffalo",
           "ipa": "/ˈbʌf.ə.loʊ/",
-          "image": "https://diveconcepts.com/img/media_library/water-buffao-on-komodo-island_07012021001835bfd710dcb3e669b3bdaeb3776cfdcce1.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780975776/buffalo_jnrva1.avif",
           "video": "gqxJ4Qzcvs0"
         }
       ]
@@ -86,63 +86,70 @@
           "titleVi": "Bồ câu",
           "titleEn": "Pigeon",
           "ipa": "/ˈpɪdʒɪn/",
-          "image": "https://p3.hippopx.com/preview/1002/112/pigeon-gray-concrete-floor-urban-setting-feral-pigeon-vibrant-close-up-blurred-background-city-bird-pigeon-photography-pigeon-on-concrete-pigeon-in-city.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780981194/pigeon_obquug.avif",
           "video": "qBBlfT86GUk"
         },
         {
           "titleVi": "Chim cút",
           "titleEn": "Quail",
           "ipa": "/kweɪl/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Japanese_Quail.jpg/1280px-Japanese_Quail.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780981192/quail_y1bc2m.avif",
           "video": "UwnrLni3-e0"
         },
         {
           "titleVi": "Đà điểu",
           "titleEn": "Ostrich",
           "ipa": "/ˈɑːstrɪtʃ/",
-          "image": "https://zoomo.co.jp/wp-content/uploads/2022/11/%E3%83%80%E3%83%81%E3%83%A7%E3%82%A6%EF%BC%91-scaled.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780981192/ostrich_h60ihq.avif",
           "video": "CuAquYWDMCY"
         },
         {
           "titleVi": "Gà",
           "titleEn": "Chicken",
           "ipa": "/ˈtʃɪkɪn/",
-          "image": "https://images.unsplash.com/photo-1715689236234-13773aca8e8b?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780981191/chicken_xsacdu.avif",
           "video": "QNVxBpnoqn4"
         },
         {
           "titleVi": "Gà mái",
           "titleEn": "Hen",
           "ipa": "/hen/",
-          "image": "https://bigoceanwomen.org/wp-content/uploads/2022/10/Shelli-Nov-2022-chicken-and-chicks-scaled-1.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780981191/hen_yy7dex.avif",
           "video": "Jk8U7MiqAes"
         },
         {
           "titleVi": "Gà tây",
           "titleEn": "Turkey",
           "ipa": "/ˈtɜːrki/",
-          "image": "https://images.pexels.com/photos/31543771/pexels-photo-31543771.jpeg?cs=srgb&dl=pexels-grigory-karachev-706226067-31543771.jpg&fm=jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780982110/turkey_z2e3ms.avif",
           "video": "GnlLpBWZ_LE"
         },
         {
           "titleVi": "Khướu",
           "titleEn": "Babbler",
-          "ipa": "/ˈbæblə/.",
-          "image": "https://asset.museum-digital.org/sachsen/images/156/67501-oinv/weiSsohrhaeherling_pteror/weiSsohrhaeherling-pterorhinus-chinensis-67501-155816.jpg",
+          "ipa": "/ˈbæblə/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780981191/babbler_n3y0az.avif",
           "video": "z4jhNXNOkYY"
+        },
+        {
+          "titleVi": "Ngan",
+          "titleEn": "Muscovy duck",
+          "ipa": "/ˈmʌskəvi dʌk/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780981192/muscovy-duck_cikafn.avif",
+          "video": "Yf8a3hnJaXQ"
         },
         {
           "titleVi": "Ngỗng",
           "titleEn": "Goose",
           "ipa": "/ɡuːs/",
-          "image": "https://traigiongthuha.com/uploads/cache/news/news_397.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780981192/goose_hgz5le.avif",
           "video": "bwpxico6JTE"
         },
         {
           "titleVi": "Vịt",
           "titleEn": "Duck",
           "ipa": "/dʌk/",
-          "image": "https://a-z-animals.com/media/2024/02/shutterstock-2257188433-huge-licensed-scaled.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780981193/duck_ra5dkd.avif",
           "video": "krDdYehF-m0"
         }
       ]
@@ -156,70 +163,70 @@
           "titleVi": "Bói cá",
           "titleEn": "Kingfisher",
           "ipa": "/ˈkɪŋfɪʃər/",
-          "image": "https://preview.redd.it/lucky-shot-of-a-lifetime-common-kingfisher-alcedo-atthis-v0-8pijnvuj13gf1.jpeg?width=1080&crop=smart&auto=webp&s=c24cb3a000bbaf4cf8f28b75b50e2355b4da8173",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780984976/kingfisher_gpilhw.avif",
           "video": "aZRsbuSTB-Q"
         },
         {
           "titleVi": "Bướm",
           "titleEn": "Butterfly",
           "ipa": "/ˈbʌtərflaɪ/",
-          "image": "https://hips.hearstapps.com/hmg-prod/images/monarch-butterly-on-purple-aster-flowers-royalty-free-image-1744813745.pjpeg?crop=0.536xw:1.00xh;0.143xw,0",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780984983/butterly_hfaiwl.avif",
           "video": "toejK7lNjL0"
         },
         {
           "titleVi": "Cá",
           "titleEn": "Fish",
           "ipa": "/fɪʃ/",
-          "image": "https://images.pexels.com/photos/32261699/pexels-photo-32261699.jpeg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780984975/fish_se6fd0.avif",
           "video": "c3mgI49FrKk"
         },
         {
           "titleVi": "Cò",
           "titleEn": "Stork",
           "ipa": "/stɔːrk/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ringed_white_stork.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780984979/stock_e17dgz.avif",
           "video": "mAPXzX20fqc"
         },
         {
           "titleVi": "Cóc",
           "titleEn": "Toad",
           "ipa": "/təʊd/",
-          "image": "https://nswg.org.uk/wp-content/uploads/2024/02/Photo4-David-2.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780984982/toad_kavynz.avif",
           "video": "mWGPvYGLgBQ"
         },
         {
           "titleVi": "Chuồn chuồn",
           "titleEn": "Dragonfly",
           "ipa": "/ˈdræɡənflaɪ/",
-          "image": "https://images.pexels.com/photos/14708157/pexels-photo-14708157.jpeg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780984988/dragonfly_bsczih.avif",
           "video": "5bPpYlgh_Wc"
         },
         {
           "titleVi": "Lươn",
           "titleEn": "Eel",
           "ipa": "/iːl/",
-          "image": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/4/dd/4dd6b6b9-64f8-525f-9ea2-eb417933f7a8/64d69bf8804d1.image.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780984984/eel_nfoqhi.avif",
           "video": "5WC2pTRk8EM"
         },
         {
           "titleVi": "Nòng nọc",
           "titleEn": "Tadpole",
           "ipa": "/ˈtædpəʊl/",
-          "image": "https://dl6pgk4f88hky.cloudfront.net/2022/04/202215-Spring-Reflection-797x1062.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780984980/tadpole_jj1yxv.avif",
           "video": "QvdPSGFD0WE"
         },
         {
           "titleVi": "Tôm",
           "titleEn": "Shrimp",
           "ipa": "/ʃrɪmp/",
-          "image": "https://sv1.nhacsong.pro/vuatomchangloan/uploads/images/null/2025-04-19/PZOtuaooVN_31472b91-5bd1-4518-8712-2a6586c255c3.webp",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780984978/shrimp_ak9wqy.avif",
           "video": "jjtSE2ZJe94"
         },
         {
           "titleVi": "Trai",
           "titleEn": "Mussel",
           "ipa": "/ˈmʌsl/",
-          "image": "https://preview.redd.it/added-fresh-water-clams-to-my-bog-filter-v0-y9gb8xhb5x4f1.jpeg?width=1080&crop=smart&auto=webp&s=1d65664d04ec9344f5147aa58a152c7847bf8fc1",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780984977/mussel_ilvvpu.avif",
           "video": "mEP9cCTKLL8"
         }
       ]
@@ -233,70 +240,70 @@
           "titleVi": "Chồn hương",
           "titleEn": "Civet",
           "ipa": "/ˈsɪvɪt/",
-          "image": "https://media.urbanistnetwork.com/saigoneer/article-images/2022/02/28/ns-civet/14b.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995024/civet_ehbc4b.avif",
           "video": "p75X6686EfE"
         },
         {
           "titleVi": "Chuột",
           "titleEn": "Mouse",
           "ipa": "/maʊs/",
-          "image": "https://www.heartspm.com/wp-content/uploads/2024/10/Deer-Mice-Extermination-1.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995034/mouse_eikhzv.avif",
           "video": "3FL2jNwpVFE"
         },
         {
-          "titleVi": "Cú mèo",
+          "titleVi": "Cú",
           "titleEn": "Owl",
           "ipa": "/aʊl/",
-          "image": "https://www.nzbirdsonline.org.nz/assets/95597/1691039081-owl-20barn-20owl-20warr-20copy.jpg?auto=format&fit=crop&w=1200",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995035/owl_ekt4ss.avif",
           "video": "OY-kPOcsewU"
         },
         {
           "titleVi": "Dế",
-          "titleEn": "Cricket ",
+          "titleEn": "Cricket",
           "ipa": "/ˈkrɪkɪt/",
-          "image": "https://www.heartspm.com/wp-content/uploads/2024/10/House-Crickets-Extermination-1-1.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995025/cricket_bvbofg.avif",
           "video": "yKtpA2QNoVI"
         },
         {
           "titleVi": "Dơi",
           "titleEn": "Bat",
           "ipa": "/bæt/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vampyressa_nymphae.jpg/960px-Vampyressa_nymphae.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995024/bat_rjrzdp.avif",
           "video": "hXllnTlNugI"
         },
         {
           "titleVi": "Đom đóm",
           "titleEn": "Firefly",
           "ipa": "/ˈfaɪərflaɪ/",
-          "image": "https://diak46rl5chc7.cloudfront.net/orgs/136294/post_details/jgekv1ga0yj0mncd/x1500_jgekv1ga0yj0mncd.png",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995027/firefly_pjocoa.avif",
           "video": "qyaSK4lCU5I"
         },
         {
           "titleVi": "Muỗi",
           "titleEn": "Mosquito",
           "ipa": "/məˈskiːtəʊ/",
-          "image": "https://npr.brightspotcdn.com/dims4/default/dcec8b5/2147483647/strip/true/crop/960x1280+0+0/resize/880x1173!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2F40%2F2460aa72444089ef5c2bbec0b035%2Fkemp-mosquito.jpeg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995033/mosquito_rminb8.avif",
           "video": "7Oy6BtMaiSc"
         },       
         {
           "titleVi": "Sói",
           "titleEn": "Wolf",
           "ipa": "/wʊlf/",
-          "image": "https://static.vecteezy.com/system/resources/previews/056/977/215/large_2x/wolf-howling-at-the-moon-free-photo.jpeg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995038/wolf_bb82kv.avif",
           "video": "nxtCpjD_ZzE"
         },      
         {
           "titleVi": "Rắn",
           "titleEn": "Snake",
           "ipa": "/sneɪk/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bungarus_slowinskii_01.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995036/snake_rlflt3.avif",
           "video": "TLh774sdzQE"
         },
         {
           "titleVi": "Vạc",
           "titleEn": "Heron",
           "ipa": "/ˈherən/",
-          "image": "https://bcgforums.com/attachments/yet-another-night-heron-sized-jpg.62133/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995029/heron_t34cos.avif",
           "video": "7s27sYsuRj8"
         }
       ]
@@ -310,70 +317,70 @@
           "titleVi": "Gấu",
           "titleEn": "Bear",
           "ipa": "/ber/",
-          "image": "https://www.nzherald.co.nz/resizer/WOW_lvfl817OntqqPp67ipaxJ2A=/arc-anglerfish-syd-prod-nzme/public/GMST6C75A5A7JHGYSWTVWV635A.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780996081/bear_lttsdz.avif",
           "video": "3cKQQH_3cgQ"
         },
         {
           "titleVi": "Hổ",
           "titleEn": "Tiger",
           "ipa": "/ˈtaɪɡər/",
-          "image": "https://hblimg.mmtcdn.com/content/hubble/img/story_img/mmt/activities/m_webstories_kaziranga_national_park_assam_032025_p_1500_1200.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780996082/tiger_yj0rnp.avif",
           "video": "sVAyMfPPcv4"
         },
         {
           "titleVi": "Hồng hoàng",
           "titleEn": "Hornbill",
           "ipa": "/ˈhɔːrnbɪl/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Great_hornbill_Photograph_by_Shantanu_Kuveskar.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780996037/hornbill_t3x2lm.avif",
           "video": "UwSkQwBKz-o"
         },
         {
-          "titleVi": "Hươu sao",
+          "titleVi": "Hươu",
           "titleEn": "Deer",
           "ipa": "/dɪr/",
-          "image": "https://www.pugdundeesafaris.com/blog/wp-content/uploads/2015/09/MG_9851-Spotted-Deer-24x16.webp",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780997431/deer_g3ej26.avif",
           "video": "bKRl3HNBspM"
         },
         {
           "titleVi": "Kỳ nhông",
           "titleEn": "Salamander",
           "ipa": "/ˈsæləmændər/",
-          "image": "https://media.wired.com/photos/5aff07889b3a517fcaece111/master/w_1600,c_limit/salamander1.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780996036/salamander_huwjpi.avif",
           "video": "qcXP2fyULL8"
         },
         {
           "titleVi": "Nhím",
-          "titleEn": "Porcupines",
+          "titleEn": "Porcupine",
           "ipa": "/ˈpɔːrkjupaɪn/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Darica_Kirpi_00911.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780996041/porcupine_yt0rrn.avif",
           "video": "cuwmwKGEOdE"
         },      
         {
           "titleVi": "Tê giác",
           "titleEn": "Rhino",
           "ipa": "/ˈraɪnəʊ/",
-          "image": "https://cdn.shopify.com/s/files/1/1185/0798/files/javan-rhino-discovery-6.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780996035/rhino_wtd3t2.avif",
           "video": "UTwdTfCRyg0"
         },
         {
           "titleVi": "Tê Tê",
           "titleEn": "Pangolin",
           "ipa": "/ˈpæŋɡəlɪn/",
-          "image": "https://wildnet.org/wp-content/uploads/WhatsApp-Image-2023-08-14-at-00.58.55.jpeg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780996040/pangolin_w6e7tl.avif",
           "video": "RSHc8DRYPn4"
         },
         {
           "titleVi": "Trĩ",
           "titleEn": "Pheasant",
           "ipa": "/ˈfeznt/",
-          "image": "https://cdn.feederwatch.org/wp-content/uploads/2024/03/DSC_4481-Edit-scaled.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780996042/pheasant_kfvxcg.avif",
           "video": "32OcgLqVahg"
         },
         {
           "titleVi": "Voi",
           "titleEn": "Elephant",
           "ipa": "/ˈelɪfənt/",
-          "image": "https://www.pawstrailsmagazine.com/wp-content/uploads/2020/11/PTAware_VOL_12_Kuuldeep_35.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780996041/elephant_bebpw5.avif",
           "video": "d-nf1oe_a8Q"
         }
       ]
@@ -387,28 +394,28 @@
           "titleVi": "Bồ nông",
           "titleEn": "Pelican",
           "ipa": "/ˈpelɪkən/",
-          "image": "https://abcbirds.org/wp-content/uploads/2026/02/Brown-Pelican.-Photo-by-Bruce-Beehler-scaled.webp",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780997364/pelican_xbc5py.avif",
           "video": "f6TPQrd-bAM"
         },
         {
           "titleVi": "Cá sấu",
           "titleEn": "Crocodile",
           "ipa": "/ˈkrɑːkədaɪl/",
-          "image": "https://res.cloudinary.com/roundglass/image/upload/f_auto/q_auto/f_auto/c_limit,w_auto:breakpoints_200_2560_100_5:1265/v1584523953/roundglass/sustain/Saltwater-Crocodile_Dhritiman-Mukerjee4_l2yayc.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780997356/crocodile_jgn5wl.avif",
           "video": "BYYWjyC11bU"
         },
         {
           "titleVi": "Cá thòi lòi",
           "titleEn": "Mudskipper",
           "ipa": "/ˈkrɑːkədaɪl/",
-          "image": "https://images.news18.com/webstories/uploads/2025/02/9-2025-02-f349fc708a75f757c88e6bb00cea75e0.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780997403/mudskipper_fhccbv.avif",
           "video": "nOw59MxI3Uo"
         },
         {
-          "titleVi": "Cồng cộc",
+          "titleVi": "Cốc",
           "titleEn": "Cormorant",
           "ipa": "/ˈkɔːrmərənt/",
-          "image": "https://c.stocksy.com/a/tzo300/z9/911021.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780997355/cormorant_m2ipif.avif",
           "video": "N9mM-mHuMvM"
         },
         {
@@ -422,42 +429,42 @@
           "titleVi": "Cuốc",
           "titleEn": "Waterhen",
           "ipa": "/'wɔ:təhen/",
-          "image": "https://static.wixstatic.com/media/991922_ae2a8ace3277463a801f7fa077ef4adf~mv2.jpg/v1/fill/w_980,h_1307,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/991922_ae2a8ace3277463a801f7fa077ef4adf~mv2.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780997402/waterhen_zd3h0g.avif",
           "video": "ERwYAmBCruY"
         },
         {
           "titleVi": "Đỉa",
           "titleEn": "Leech",
           "ipa": "/liːtʃ/",
-          "image": "https://e63chwvhsjb.exactdn.com/wp-content/uploads/2020/02/Sigaton_LeechTherapyRevoModernMed1-853x1024.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780997358/leech_zwk6kb.avif",
           "video": "TrW9tM1WN3A"
         },
         {
           "titleVi": "Khỉ",
           "titleEn": "Monkey",
           "ipa": "/ˈmʌŋki/",
-          "image": "https://images.unsplash.com/photo-1704129964112-de96ef528efd?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780997362/monkey_rjrltt.avif",
           "video": "qin3sT0vqO0"
         },
         {
           "titleVi": "Rái cá",
           "titleEn": "Otter",
           "ipa": "/ˈɑːtər/",
-          "image": "https://cdn.shopify.com/s/files/1/1185/0798/files/japan-otter-cafes-7.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780997362/otter_u4w0cj.avif",
           "video": "yPXPHYwlXeI"
         },
         {
           "titleVi": "Sếu",
           "titleEn": "Crane",
           "ipa": "/kreɪn/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sarus_crane_%28Grus_antigone%29.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780997356/crane_ab3mjd.avif",
           "video": "rgnVxnemKdc"
         },
         {
           "titleVi": "Trăn",
           "titleEn": "Python",
           "ipa": "/ˈpaɪθɑːn/",
-          "image": "https://geographyhost.com/wp-content/uploads/2023/06/Reticulated-Python-portrait.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780997369/python_v1ivzv.avif",
           "video": "kvhZ3zJKSoI"
         }
       ]
@@ -471,63 +478,63 @@
           "titleVi": "Cầy",
           "titleEn": "Meerkat",
           "ipa": "/ˈmɪə.kæt/",
-          "image": "https://cms.bbcearth.com/sites/default/files/2021-01/meer4.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780999681/meerkat_sqferh.avif",
           "video": "rKL0QeTULeE"
         },
         {
           "titleVi": "Chim thư ký",
           "titleEn": "Secretary bird",
           "ipa": "/ˈsekrəteri bɜːrd/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Secretary-Bird.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780999685/secretary-bird_fulwqb.avif",
           "video": "O4aDDAKpsiQ"
         },
         {
           "titleVi": "Hà mã",
           "titleEn": "Hippo",
           "ipa": "/ˈhɪpəʊ/",
-          "image": "https://cincinnatizoo.org/wp-content/uploads/2021/09/2aJLPnnQ-768x960.jpeg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780999686/hippo_czjboy.avif",
           "video": "4ZKlX51I-r4"
         },
         {
           "titleVi": "Hươu cao cổ",
           "titleEn": "Giraffe",
           "ipa": "/dʒəˈræf/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Giraffe_Mikumi_National_Park.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780999693/giraffe_m4xkgu.avif",
           "video": "untKlA9T08U"
         },
         {
           "titleVi": "Linh cẩu",
           "titleEn": "Hyena",
           "ipa": "/haɪˈiːnə/",
-          "image": "https://scitechdaily.com/images/Hyena-Mother-and-Cub.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780999695/hyena_db9sou.avif",
           "video": "Wt2snMhY5lw"
         },
         {
           "titleVi": "Linh dương",
           "titleEn": "Antelope",
           "ipa": "/ˈæntɪləʊp/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Taurotragus_oryx_qtl1.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780999688/antelope_x14etq.avif",
           "video": "znWhKZOYnG8"
         },
         {
           "titleVi": "Lửng",
           "titleEn": "Badger",
           "ipa": "/ˈbædʒər/",
-          "image": "https://likhulusafaris.com/uploads/Hunting-Honey-Badger-with-Likhulu-Safaris.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780999690/badger_oifqp9.avif",
           "video": "0UUbD1w6Zo0"
         },
         {
           "titleVi": "Ngựa vằn",
           "titleEn": "Zebra",
           "ipa": "/ˈziːbrə/",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Plains_Zebra_Equus_quagga.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780999683/zebra_b4wdab.avif",
           "video": "-Vl0ZRDMc9A"
         },
         {
           "titleVi": "Sư tử",
           "titleEn": "Lion",
           "ipa": "/ˈlaɪən/",
-          "image": "https://i.natgeofe.com/k/7f67995b-f261-43e3-b747-817865f033ac/cool-things-lions-4_3x4.jpg",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780999697/lion_thk1jk.avif",
           "video": "IIVfhDhDnHQ"
         }
       ]
