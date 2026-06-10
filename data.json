@@ -328,6 +328,13 @@
       "image": "https://drive.google.com/thumbnail?id=1bcyv4fpLeAYZkh0Uj_HRZZ3ocCVLhzKp",
       "flashcards": [
         {
+          "titleVi": "Báo",
+          "titleEn": "Leopard",
+          "ipa": "/ˈlepərd/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781093217/leopard_ge2h6e.avif",
+          "video": "aEUIYQIR4xo"
+        },
+        {
           "titleVi": "Gấu",
           "titleEn": "Bear",
           "ipa": "/ber/",
@@ -380,15 +387,8 @@
           "titleVi": "Tê Tê",
           "titleEn": "Pangolin",
           "ipa": "/ˈpæŋɡəlɪn/",
-          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780996040/pangolin_w6e7tl.avif",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781094775/pangolin_bwxgpc.avif",
           "video": "RSHc8DRYPn4"
-        },
-        {
-          "titleVi": "Trĩ",
-          "titleEn": "Pheasant",
-          "ipa": "/ˈfeznt/",
-          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780996042/pheasant_kfvxcg.avif",
-          "video": "32OcgLqVahg"
         },
         {
           "titleVi": "Voi",
@@ -692,18 +692,18 @@
           "video": "yxOagDz6r8U"
         },
         {
+          "titleVi": "Tắc kè",
+          "titleEn": "Chameleon",
+          "ipa": "/kəˈmiːliən/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781094271/chameleon_mfl4ba.avif",
+          "video": "OwbZbWTyimw"
+        },
+        {
           "titleVi": "Vượn cáo",
           "titleEn": "Lemur",
           "ipa": "/ˈliːmər/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781015659/lemur_jzs0fn.avif",
           "video": "ustBpG6hu5w"
-        },
-        {
-          "titleVi": "Yến",
-          "titleEn": "Swiftlet",
-          "ipa": "/ˈswɪft.lət/",
-          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781015602/swiftlet_vhta8n.avif",
-          "video": "kSFBnN3XLWI"
         }
       ]
     },
@@ -907,6 +907,104 @@
           "ipa": "/ˈwɔːlrəs/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781021483/walrus_wulxi6.avif",
           "video": "v2o85yxURe8"
+        }
+      ]
+    },
+    {
+      "id": "australia",
+      "name": "Châu Úc",
+      "image": "https://drive.google.com/thumbnail?id=1tKwUo0K99u3X_w80q_BnTHYnjIul9JIK",
+      "flashcards": [
+        {
+          "titleVi": "Chim kiwi",
+          "titleEn": "Kiwi",
+          "ipa": "/ˈkiː.wiː/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781095363/kiwi_r8b5ex.avif",
+          "video": "MT4J1e412q0"
+        },
+        {
+          "titleVi": "Chuột túi",
+          "titleEn": "Kangaroo",
+          "ipa": "/ˌkæŋɡəˈruː/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781095350/kangaroo_kyn1i6.avif",
+          "video": "WQFuJBrQEIs"
+        },
+        {
+          "titleVi": "Koala",
+          "titleEn": "Koala",
+          "ipa": "/kəʊˈɑːlə/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781095369/koala_i8p7tb.avif",
+          "video": "GyV5uLNoIbM"
+        },
+        {
+          "titleVi": "Nhện",
+          "titleEn": "Spider",
+          "ipa": "/ˈspaɪdər/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781103796/spider_h89mbq.avif",
+          "video": "4MZ9GwJ__-I"
+        },
+        {
+          "titleVi": "Sóc",
+          "titleEn": "Squirrel",
+          "ipa": "/ˈskwɜːrəl/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781095217/squirrel_ietkes.avif",
+          "video": "ioUsYxgEkOM"
+        },
+        {
+          "titleVi": "Thú mỏ vịt",
+          "titleEn": "Platypus",
+          "ipa": "/ˈplætɪpʊs/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781095377/platypus_pnpa5q.avif",
+          "video": "h0HL1XBZuqU"
+        }
+      ]
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "image": "https://drive.google.com/thumbnail?id=1idsnSKRmqhA1flzds00R9_kLopNxPzJ0",
+      "flashcards": [
+        {
+          "titleVi": "Cá hải tượng",
+          "titleEn": "Arapaima",
+          "ipa": "/ˌærəˈpaɪmə/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781101521/arapaima_cceaej.avif",
+          "video": "NPOw3gmc1Uc"
+        },
+        {
+          "titleVi": "Chuột lang",
+          "titleEn": "Capybara",
+          "ipa": "/ˌkæpiˈbɑːrə/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781101537/capybara_ggjw1a.avif",
+          "video": "9lOYm0UXgwI"
+        },
+        {
+          "titleVi": "Kiến",
+          "titleEn": "Ant",
+          "ipa": "/ænt/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781101480/ant_uyrpvp.avif",
+          "video": "1emZBeWZs-8"
+        },
+        {
+          "titleVi": "Lười",
+          "titleEn": "Sloth",
+          "ipa": "/sləʊθ/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781101476/sloth_iqlgi1.avif",
+          "video": "iGklJoIQbH0"
+        },
+        {
+          "titleVi": "Thú ăn kiến",
+          "titleEn": "Anteater",
+          "ipa": "/ˈæntiːtər/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781101486/anteater_h6d4ju.avif",
+          "video": "n7a_K8qbCeA"
+        },
+        {
+          "titleVi": "Vẹt",
+          "titleEn": "Parrot",
+          "ipa": "/ˈpærət/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781101948/parrot_sfr7el.avif",
+          "video": "FBCDQ9qH2vg"
         }
       ]
     }
