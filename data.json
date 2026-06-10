@@ -286,25 +286,32 @@
           "video": "qyaSK4lCU5I"
         },
         {
+          "titleVi": "Gián",
+          "titleEn": "Cockroach",
+          "ipa": "/ˈkɑːkrəʊtʃ/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781074592/cockroach_e3lzps.avif",
+          "video": "EHiyj-s7iQc"
+        },        
+        {
           "titleVi": "Muỗi",
           "titleEn": "Mosquito",
           "ipa": "/məˈskiːtəʊ/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995033/mosquito_rminb8.avif",
           "video": "7Oy6BtMaiSc"
-        },       
-        {
-          "titleVi": "Sói",
-          "titleEn": "Wolf",
-          "ipa": "/wʊlf/",
-          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995038/wolf_bb82kv.avif",
-          "video": "nxtCpjD_ZzE"
-        },      
+        },            
         {
           "titleVi": "Rắn",
           "titleEn": "Snake",
           "ipa": "/sneɪk/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995036/snake_rlflt3.avif",
           "video": "TLh774sdzQE"
+        },
+        {
+          "titleVi": "Thạch sùng",
+          "titleEn": "Gecko",
+          "ipa": "/ˈɡekəʊ/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781073251/gecko_gflxoh.avif",
+          "video": "IzsYZf990dA"
         },
         {
           "titleVi": "Vạc",
@@ -522,6 +529,13 @@
           "ipa": "/ˈbædʒər/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780999690/badger_oifqp9.avif",
           "video": "0UUbD1w6Zo0"
+        },
+        {
+          "titleVi": "Mối",
+          "titleEn": "Termite",
+          "ipa": "/ˈtɜːrmaɪt/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781073395/termite_dq5upp.avif",
+          "video": "sz0-iWnnaOo"
         },
         {
           "titleVi": "Ngựa vằn",
@@ -831,6 +845,13 @@
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781020792/crow_whaxga.avif",
           "video": "OSog_PrL-0w"
         },
+        {
+          "titleVi": "Sói",
+          "titleEn": "Wolf",
+          "ipa": "/wʊlf/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781075106/wolf_xqfmv8.avif",
+          "video": "nxtCpjD_ZzE"
+        }, 
         {
           "titleVi": "Tuần lộc",
           "titleEn": "Reindeer",
