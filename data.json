@@ -671,13 +671,6 @@
           "video": "UkSbPFQzA00"
         },
         {
-          "titleVi": "Ốc",
-          "titleEn": "Snail",
-          "ipa": "/sneɪl/",
-          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781015595/snail_gae1rn.avif",
-          "video": "1tiAxNN6bcE"
-        },
-        {
           "titleVi": "San hô",
           "titleEn": "Coral",
           "ipa": "/ˈkɔːrəl/",
@@ -881,6 +874,13 @@
           "video": "3WOWS-8HN1k"
         },
         {
+          "titleVi": "Chim nhạn",
+          "titleEn": "Tern",
+          "ipa": "/tɜːrn/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781106291/tern_zfo8ab.avif",
+          "video": "Kv5Nfq8nhZc"
+        },
+        {
           "titleVi": "Gấu trắng",
           "titleEn": "Polar bear",
           "ipa": "/ˈpəʊlər ber/",
@@ -942,6 +942,13 @@
           "ipa": "/ˈspaɪdər/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781103796/spider_h89mbq.avif",
           "video": "4MZ9GwJ__-I"
+        },
+        {
+          "titleVi": "Ốc sên",
+          "titleEn": "Snail",
+          "ipa": "/sneɪl/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781108059/snail_lw9ktt.avif",
+          "video": "8MRjuKySc1M"
         },
         {
           "titleVi": "Sóc",
