@@ -171,7 +171,7 @@
           "titleEn": "Butterfly",
           "ipa": "/ˈbʌtərflaɪ/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780984983/butterly_hfaiwl.avif",
-          "video": "toejK7lNjL0"
+          "video": "oJ0GF67SzXs"
         },
         {
           "titleVi": "Cá",
@@ -276,7 +276,7 @@
           "titleEn": "Bat",
           "ipa": "/bæt/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780995024/bat_rjrzdp.avif",
-          "video": "hXllnTlNugI"
+          "video": "WjlOFow8P7Q"
         },
         {
           "titleVi": "Đom đóm",
@@ -363,6 +363,13 @@
           "video": "bKRl3HNBspM"
         },
         {
+          "titleVi": "Khỉ",
+          "titleEn": "Monkey",
+          "ipa": "/ˈmʌŋki/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780997362/monkey_rjrltt.avif",
+          "video": "qin3sT0vqO0"
+        },
+        {
           "titleVi": "Kỳ nhông",
           "titleEn": "Salamander",
           "ipa": "/ˈsæləmændər/",
@@ -396,6 +403,13 @@
           "ipa": "/ˈelɪfənt/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780996041/elephant_bebpw5.avif",
           "video": "d-nf1oe_a8Q"
+        },
+        {
+          "titleVi": "Vượn",
+          "titleEn": "Gibbon",
+          "ipa": "/ˈɡɪbən/",
+          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781276913/gibbon_catgut.avif",
+          "video": "zlhLZ2G_3MI"
         }
       ]
     },
@@ -454,13 +468,6 @@
           "video": "TrW9tM1WN3A"
         },
         {
-          "titleVi": "Khỉ",
-          "titleEn": "Monkey",
-          "ipa": "/ˈmʌŋki/",
-          "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780997362/monkey_rjrltt.avif",
-          "video": "qin3sT0vqO0"
-        },
-        {
           "titleVi": "Rái cá",
           "titleEn": "Otter",
           "ipa": "/ˈɑːtər/",
@@ -507,7 +514,7 @@
           "titleEn": "Giraffe",
           "ipa": "/dʒəˈræf/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780999693/giraffe_m4xkgu.avif",
-          "video": "untKlA9T08U"
+          "video": "RhNqGv3a2kM"
         },
         {
           "titleVi": "Linh cẩu",
@@ -542,14 +549,14 @@
           "titleEn": "Zebra",
           "ipa": "/ˈziːbrə/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780999683/zebra_b4wdab.avif",
-          "video": "-Vl0ZRDMc9A"
+          "video": "mgoJFsskKWE"
         },
         {
           "titleVi": "Sư tử",
           "titleEn": "Lion",
           "ipa": "/ˈlaɪən/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1780999697/lion_thk1jk.avif",
-          "video": "IIVfhDhDnHQ"
+          "video": "qb5JyGVu-Qg"
         }
       ]
     },
@@ -822,7 +829,7 @@
           "titleEn": "Lynx",
           "ipa": "/lɪŋks/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781020800/lynx_ns4jtk.avif",
-          "video": "X7nep1tY4V0"
+          "video": "lWKhfg1WESU"
         },
         {
           "titleVi": "Nai sừng tấm",
@@ -871,7 +878,7 @@
           "titleEn": "Penguin",
           "ipa": "/ˈpeŋɡwɪn/",
           "image": "https://res.cloudinary.com/dvyqewtlz/image/upload/v1781021617/penguin_hyugrm.avif",
-          "video": "3WOWS-8HN1k"
+          "video": "mWlVKh_H16o"
         },
         {
           "titleVi": "Chim nhạn",
